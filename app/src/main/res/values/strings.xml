@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WebAntApp</string>
+    <string name="search">Search</string>
+    <string name="sorry">Sorry!</string>
+    <string name="there_is_no_pictures">There is no pictures.</string>
+    <string name="please_come_back_later">Please come back later.</string>
+    <string name="error">Error</string>
+    <string name="loading">Loading…</string>
+    <string name="loading_">Loading</string>
+    <string name="photo">Photo</string>
+    <string name="popular">Popular</string>
+    <string name="new_text">New</string>
+    <string name="all_photos">All photos</string>
+    <string name="select_photo">Select photo:</string>
+    <string name="add_photo">Add photo</string>
+    <string name="profile">Profile</string>
+</resources>
